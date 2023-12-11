@@ -1,2 +1,9 @@
-# Personal-readme
-Personal Readme
+## Hey 👋, This is Brandi Booth
+[![Gmail Badge](https://img.shields.io/badge/-brandibooth25@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brandibooth25@gmail.com)](mailto:brandibooth25@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/brandi-booth-data-science-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/brandi-booth-data-science/)](https://www.linkedin.com/in/www.linkedin.com/in/brandi-booth-data-science/) [![Github Badge](https://img.shields.io/badge/-ZiggySway-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ZiggySway/)](https://www.github.com/ZiggySway/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/ZiggySway/)](https://github.com/ZiggySway/) <p align='left'>Dedicated in the field of Data Science with experience on more than 15 technical projects in machine learning, NLP, data collection and analysis, and visualization.  10+ years experience of communicating high-level trades in education.  Builds data driven solutions, with ability to transform the technical data into compelling stories.</p><p align='left'> You can view my resume <a href='https://drive.google.com/drive/folders/1CnLFmNSI_z24XhKec2ckw2Yj67hL8ybP?usp=drive_link ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ZiggySway alt=ZiggySway /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ZiggySway&show_icons=true&include_all_commits=true)](https://github.com/ZiggySway/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiggySway&layout=compact)](https://github.com/ZiggySway/github-readme-stats)
+
